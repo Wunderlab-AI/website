@@ -37,3 +37,9 @@ footer{border-top:1px solid var(--line);padding:1.75rem 0 2.5rem;font-size:.9375
 footer .wrap{display:flex;flex-wrap:wrap;justify-content:space-between;gap:.75rem 2rem}
 footer a{margin-right:1.25rem}
 footer p{margin:0}
+
+.ico{fill:currentColor;flex:none}
+nav a.gh{display:inline-flex;align-items:center;gap:.5rem}
+.badges{display:flex;flex-wrap:wrap;gap:.5rem;list-style:none;padding:0;margin:1.75rem 0 0}
+.badges a{display:block;line-height:0;border-radius:3px}
+.badges img{display:block;height:20px;width:auto}
